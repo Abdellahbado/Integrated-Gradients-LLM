@@ -21,7 +21,7 @@ A Python project to compute and visualize token-level attributions for Large Lan
 2.  **Install dependencies:** (Assuming a `requirements.txt` would be created)
     ```bash
     pip install -r requirements.txt 
-    # Key libraries: torch, transformers, captum, matplotlib, pandas, numpy
+
     ```
 3.  **Hugging Face Authentication:**
     *   For gated models (like Gemma), log in:
